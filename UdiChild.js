@@ -45,3 +45,10 @@ import ImagePicker from 'react-native-image-crop-picker';
   }
 }
 
+const styles = StyleSheet.create({
+  container:{
+    flex:1,
+    justifyContent:'center',
+    alignItems:'center'
+  } 
+});
